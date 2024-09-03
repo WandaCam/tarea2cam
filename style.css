@@ -1,0 +1,118 @@
+*{
+    margin:0px;
+}
+.caja1{
+    background-color: rgb(135, 209, 223);
+    width: 200px;
+    height: 110px;
+    position: absolute;
+    top: 10px;
+    left: 250px;
+}
+.caja2{
+    background-color: rgb(4, 119, 119);
+    width: 500px;
+    height: 50px;
+    position: relative;
+    top: 115px;
+    left: 100px;
+    border-radius: 50%;
+}
+.caja3{
+    background-color: rgb(14, 136, 97);
+    width: 300px;
+    height: 250px;
+    position: relative;
+    top: 110px;
+    left: 200px;
+    border-radius: 500px;
+       
+}
+.caja3hijo1{
+    background-color: rgb(238, 241, 247);
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50px;
+    left: 70px;   
+    border: 0ch;
+    border-radius: 500px;
+
+}
+.caja31nieto{
+    background-color: rgb(0, 0, 0);
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 15px;
+    left: 15px;   
+    border: 0ch;
+    border-radius: 500px;
+}
+.caja3hijo2{
+    background-color: rgb(221, 234, 255);
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50px;
+    left: 170px;   
+    border: 0ch;
+    border-radius: 500px;
+}
+.caja32nieto{
+    background-color: rgb(0, 0, 0);
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 15px;
+    left: 15px;   
+    border: 0ch;
+    border-radius: 500px;
+}
+.caja3hijo3{
+    background-color: rgb(161, 31, 22);
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 150px;
+    left: 100px;   
+    border-radius: 80%;
+}
+.caja33nieto{
+    background-color: rgb(0, 0, 0);
+    width: 70px;
+    height: 15px;
+    position: absolute;
+    top: 17px;
+    left: 15px;   
+    border: 0ch;
+    border-radius: 80%;
+}
+.caja4{
+    background-color: rgb(7, 54, 39);
+    width: 50px;
+    height: 45px;
+    position: relative;
+    top: 100px;
+    left: 320px;
+    border: 0ch;
+    border-radius: 500px;
+}
+.caja5{
+    background-color: rgb(0, 3, 2);
+    width: 150px;
+    height: 45px;
+    position: relative;
+    top: 55px;
+    left: 365px;
+    border-radius: 80%;
+}
+.caja6{
+    background-color: rgb(0, 3, 2);
+    width: 150px;
+    height: 45px;
+    position: relative;
+    top: 10px;
+    left: 175px;
+    border-radius: 80%;
+}
